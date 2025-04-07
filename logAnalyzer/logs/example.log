@@ -1,0 +1,14 @@
+[2025-04-01 09:00:01] INFO: Sistema iniciado correctamente
+[2025-04-01 09:00:05] INFO: Usuario 192.168.1.10 inició sesión
+[2025-04-01 09:00:10] WARNING: Módulo X respondió en 512ms
+[2025-04-01 09:01:03] ERROR: No se pudo conectar a la base de datos
+[2025-04-01 09:01:15] INFO: Usuario 192.168.1.11 inició sesión
+[2025-04-01 09:02:47] INFO: Servicio de correo enviado exitosamente
+[2025-04-01 09:03:11] WARNING: Uso de CPU al 85%
+[2025-04-01 09:04:33] INFO: Usuario 192.168.1.10 cerró sesión
+[2025-04-01 09:05:22] ERROR: Archivo de configuración no encontrado
+[2025-04-01 09:06:00] INFO: Backup completado
+[2025-04-01 09:07:45] INFO: Usuario 192.168.1.12 inició sesión
+[2025-04-01 09:08:18] WARNING: Conexión lenta detectada en módulo Y
+[2025-04-01 09:09:29] ERROR: Tiempo de espera agotado en API externa
+[2025-04-01 09:10:00] INFO: Finalizando sistema
